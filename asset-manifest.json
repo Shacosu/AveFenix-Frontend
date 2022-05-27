@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AveFenix-Frontend/static/css/main.177f2acc.css",
+    "main.js": "/AveFenix-Frontend/static/js/main.c1e05b08.js",
+    "index.html": "/AveFenix-Frontend/index.html",
+    "main.177f2acc.css.map": "/AveFenix-Frontend/static/css/main.177f2acc.css.map",
+    "main.c1e05b08.js.map": "/AveFenix-Frontend/static/js/main.c1e05b08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.177f2acc.css",
+    "static/js/main.c1e05b08.js"
+  ]
+}
